@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid rgb(255, 255, 255);
+}  
+
+.button{
+
+  color: #fff;
+  margin-top: 2rem;
+}
+.head{
+  
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
